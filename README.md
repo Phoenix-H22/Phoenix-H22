@@ -82,6 +82,6 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Phoenix-H22&show_icons=true&theme=synthwave" alt="Phoenix's Github Stats">
 
-</br></br></br>
+</br></br>
 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-H22&layout=compact&theme=synthwave" alt="Phoenix's Github Stats">
