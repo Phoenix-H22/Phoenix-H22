@@ -1,4 +1,4 @@
-<p style="font-size="40px" align="center">
+<p style="font-size:200px;" align="center">
  Hi there, I'm <a href="https://www.linkedin.com/in/alkady22/"> Abdalrhman (Phoenix)</a> 👋
  </p>
 <p align="center">
