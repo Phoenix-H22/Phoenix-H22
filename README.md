@@ -1,4 +1,4 @@
-<p style="font-size:200px;" align="center">
+<p align="center">
  Hi there, I'm <a href="https://www.linkedin.com/in/alkady22/"> Abdalrhman (Phoenix)</a> 👋
  </p>
 <p align="center">
@@ -6,9 +6,10 @@
 </p>
 
 ---
-
+<p align="center">
 Connect With Me Now!🥰
-
+ </p>
+ 
 [![Linkedin Badge](https://img.shields.io/badge/-Abdalrhman_Alkady-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alkady22/)](https://www.linkedin.com/in/alkady22/)
 [![Website Badge](https://img.shields.io/badge/-Personal_Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://alkady.phoenix-fire.tech)](https://alkady.phoenix-fire.tech)
 [![Twitter Badge](https://img.shields.io/badge/-@_AlkadyH22-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Alkady_H22)](https://twitter.com/Alkady_H22)
@@ -90,8 +91,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Phoenix-H22&show_icons=true&theme=synthwave" alt="Phoenix's Github Stats">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Phoenix-H22&show_icons=true&theme=synthwave" alt="Phoenix's Github Stats">
 
-</br></br>
-
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-H22&layout=compact&theme=synthwave" alt="Phoenix's Github Stats">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-H22&layout=compact&theme=synthwave" alt="Phoenix's Github Stats">
