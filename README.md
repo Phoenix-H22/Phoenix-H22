@@ -15,8 +15,6 @@ Connect With Me Now!🥰
 [![Twitter Badge](https://img.shields.io/badge/-@_AlkadyH22-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Alkady_H22)](https://twitter.com/Alkady_H22)
 [![Instagram Badge](https://img.shields.io/badge/-Abdalrhman_Alkady-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/Alkady_H22/)](https://www.instagram.com/Alkady_H22/)
 [![Gmail Badge](https://img.shields.io/badge/-Mail_Me_Now!-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alkady2019@gmail.com)](mailto:alkady2019@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-Behance-blue?style=flat&labelColor=1ca0f1&logo=Behance&logoColor=Blue&link=mailto:alkady2019@gmail.com)](mailto:alkady2019@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-Telegram_Bot-blue?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=Blue&link=mailto:alkady2019@gmail.com)](mailto:alkady2019@gmail.com)
 <!--
 **Phoenix-H22/Phoenix-H22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
