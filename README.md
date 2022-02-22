@@ -84,7 +84,6 @@ Here are some ideas to get you started:
 **Learning:**
 
 <code><a href="https://golang.org/" title="Golang"><img src="https://github.com/hussainweb/hussainweb/raw/main/icons/golang.png" /></a></code>
-<code><a href="https://www.rust-lang.org/" title="Rust"><img src="https://github.com/hussainweb/hussainweb/raw/main/icons/rust.png" /></a></code>
 <code><a href="https://dart.dev/" title="Dart"><img src="https://github.com/hussainweb/hussainweb/raw/main/icons/dartlang.png" /></a></code>
 <code><a href="https://flutter.dev/" title="Flutter"><img src="https://github.com/hussainweb/hussainweb/raw/main/icons/flutter.png" /></a></code>
 
