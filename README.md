@@ -92,4 +92,4 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Phoenix-H22&show_icons=true&theme=synthwave&count_private=true" alt="Phoenix's Github Stats">
 
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-H22&layout=compact&theme=synthwave&count_private=true" alt="Phoenix's Github Stats">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-H22&theme=synthwave&count_private=true" alt="Phoenix's Github Stats">
