@@ -90,6 +90,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Phoenix-H22&show_icons=true&theme=synthwave&count_private=true" alt="Phoenix's Github Stats">
+<img align="right" src="[https://github-readme-stats.vercel.app/api?username=Phoenix-H22&show_icons=true&theme=synthwave&count_private=true](https://camo.githubusercontent.com/88ba3e9794efc48e086cb4ca3e6ddfa4b8e19bceabf25974a259238e5885ab3e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d50686f656e69782d483232267468656d653d73796e74687761766526636f756e745f707269766174653d74727565)https://camo.githubusercontent.com/88ba3e9794efc48e086cb4ca3e6ddfa4b8e19bceabf25974a259238e5885ab3e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d50686f656e69782d483232267468656d653d73796e74687761766526636f756e745f707269766174653d74727565" alt="Phoenix's Github Stats">
 
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-H22&theme=synthwave&count_private=true" alt="Phoenix's Github Stats">
