@@ -94,6 +94,6 @@ Here are some ideas to get you started:
 -->
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Phoenix-H22&theme=synthwave&count_private=true" alt="Phoenix-H22" /></p>
-<div align="center">
+<div align="left">
  
 [![Phoenix-H22's GitHub | Stats](https://stats.quine.sh/Phoenix-H22/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Phoenix-H22)
