@@ -87,9 +87,12 @@ Here are some ideas to get you started:
 <code><a href="https://golang.org/" title="Golang"><img src="https://github.com/hussainweb/hussainweb/raw/main/icons/golang.png" /></a></code>
 <code><a href="https://dart.dev/" title="Dart"><img src="https://github.com/hussainweb/hussainweb/raw/main/icons/dartlang.png" /></a></code>
 <code><a href="https://flutter.dev/" title="Flutter"><img src="https://github.com/hussainweb/hussainweb/raw/main/icons/flutter.png" /></a></code>
-[![Phoenix's Github | Stats](https://stats.quine.sh/Phoenix-H22/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Phoenix-H22)
+
 <div align="center">
+<!--
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-H22&theme=synthwave&count_private=true" alt="Phoenix's Github Stats">
+-->
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Phoenix-H22&theme=synthwave&count_private=true" alt="Phoenix-H22" /></p>
 
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-H22&theme=synthwave&count_private=true" alt="Phoenix's Github Stats">
+[![Phoenix-H22's GitHub | Stats](https://stats.quine.sh/Phoenix-H22/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Phoenix-H22)
