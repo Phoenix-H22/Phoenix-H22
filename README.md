@@ -153,8 +153,8 @@ Scientific problem-solving, engineering competitions, and practical software dev
 ## GitHub
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Phoenix-H22&show_icons=true&theme=transparent&hide_border=true&title_color=F5C518&icon_color=F5C518&text_color=c9d1d9&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-H22&layout=compact&theme=transparent&hide_border=true&title_color=F5C518&text_color=c9d1d9" alt="Top languages">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Phoenix-H22&show_icons=true&theme=transparent&hide_border=true&title_color=F5C518&icon_color=F5C518&text_color=c9d1d9&rank_icon=github" alt="GitHub stats">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Phoenix-H22&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=F5C518&text_color=c9d1d9" alt="Top languages">
 </p>
 
 ---
