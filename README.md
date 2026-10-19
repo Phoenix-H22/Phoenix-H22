@@ -115,7 +115,7 @@ Full engineering record: **[alkady.dev/projects](https://alkady.dev/projects)**
 
 ## Career
 
-**Current** — [Kayanac ERP](https://alkady.dev/#experience) · Software Engineer · Aug 2026 – Present · Zagazig, Egypt  
+**Current** — [Kayanac ERP](https://alkady.dev/#experience) · Software Engineer · Aug 2026 – Present · Remote, Egypt  
 Rejoined after a 2025 contract. Continuing ERP work across HR, payroll, CRM, attendance, transportation, and notifications. During the **March–June 2025 contract**, delivered six integrated modules for **2,000 employees**, including biometric attendance.
 
 **Also** — [Upwork](https://www.upwork.com/freelancers/alkady22h/) · Freelance Software Engineer · Aug 2023 – Present  
