@@ -92,6 +92,7 @@ Full engineering record: **[alkady.dev/projects](https://alkady.dev/projects)**
 
 - **[Riders Delivery for WooCommerce](https://github.com/Phoenix-H22/riders-woocommerce-plugin)** — Kuwait checkout addresses, background order synchronization, delivery tracking, and HMAC-verified webhooks.
 - **[Certificates Generator](https://github.com/Phoenix-H22/Certificates-Generator)** — Bulk Arabic certificates, Chromium PDF rendering, queued delivery, and QR verification.
+- **[HLS Streaming with NestJS](https://github.com/Phoenix-H22/hls-streaming-nestjs)** — Chunked video uploads, FFmpeg HLS packaging, and HMAC-signed playlist and segment URLs.
 
 ---
 
