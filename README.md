@@ -151,7 +151,7 @@ Top Rated · 100% Job Success. Discovery through implementation, deployment, han
 
 ## Education
 
-**Bachelor's in Computer Science** — Faculty of Computers and Artificial Intelligence, [University of Sadat City](https://alkady.dev/#education) · 2021 – 2025  
+**Bachelor of Computers and Artificial Intelligence** — [University of Sadat City](https://alkady.dev/#education) · 2021 – 2025  
 Excellent with Honors · GPA **3.47 / 4.0** · Final-year GPA **3.8 / 4.0**  
 Graduation project: **Virtual Clinic / Dr. Robot — A+**
 
