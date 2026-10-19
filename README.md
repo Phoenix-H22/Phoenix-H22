@@ -101,7 +101,7 @@ Full engineering record: **[alkady.dev/projects](https://alkady.dev/projects)**
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,ts,python,react,vue,nextjs,flutter,mysql,postgres,redis,docker,linux,nginx,git,githubactions" alt="Technology stack">
 </p>
 
-**Backend & architecture** — Laravel · PHP · Node.js · Express.js · REST APIs · Webhooks · Queues · Multi-tenant systems · OOP · SOLID
+**Backend & architecture** — Laravel · PHP · Django · Node.js · Express.js · REST APIs · Webhooks · Queues · Multi-tenant systems · OOP · SOLID
 
 **Frontend** — React · Next.js · Vue · Inertia · Livewire · Blade · Filament · JavaScript · TypeScript
 
@@ -175,5 +175,5 @@ Scientific problem-solving, engineering competitions, and practical software dev
 
 <p align="center">
   <sub>Available · Egypt · Remote open · Relocation: KSA · UAE</sub><br>
-  <sub>English · Arabic · French</sub>
+  <sub>English · Arabic</sub>
 </p>
